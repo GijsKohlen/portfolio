@@ -12,8 +12,4 @@ http://kryga-music.com
 <strong>Blok 1, Zuyd Mamdt</strong>
 http://www.student-1840649kohl.mamdt.com/11-whole-task/
 
-![*foo* bar]
-
-[*foo* bar]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png <"https://github.com/Gijskohlen-cmd"> "title"
-
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" <"https://github.com/Gijskohlen-cmd">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" "https://github.com/Gijskohlen-cmd">

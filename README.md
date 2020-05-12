@@ -13,4 +13,4 @@ http://kryga-music.com
 http://www.student-1840649kohl.mamdt.com/11-whole-task/
 
 
-<img href="https://github.com/Gijskohlen-cmd/hello-world" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+<a> href="https://github.com/Gijskohlen-cmd/hello-world" <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>

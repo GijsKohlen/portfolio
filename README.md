@@ -16,4 +16,4 @@ http://thijskunst.nl
 http://www.student-1840649kohl.mamdt.com/11-whole-task/
 
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" href="https://github.com/Gijskohlen-cmd/hello-world">
+<img href="https://github.com/Gijskohlen-cmd/hello-world" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
